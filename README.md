@@ -1,8 +1,8 @@
 # Manna-Acelerometro-Buraco
 
-Acelerometro    ESP32 LoRa_
-VIN             5V_
-GND             GND_
-SDA             21_
-SCL             22_
+Acelerometro    ESP32 LoRa__
+VIN             5V__
+GND             GND__
+SDA             21__
+SCL             22__
 INT             GND
