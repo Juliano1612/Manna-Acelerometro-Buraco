@@ -34,8 +34,9 @@ void loop() {
     while (LoRa.available()) {
       Serial.print((char)LoRa.read());
     }
+    Serial.println("");
     // print RSSI of packet
   //  Serial.print("' with RSSI ");
-    Serial.println(LoRa.packetRssi());
+    //Serial.println(LoRa.packetRssi());
   }
 }
